@@ -4,7 +4,7 @@
 
 
 
-- 💬 Ask me about **Java, Spring, JPA, SQL, JDBC, Servlet, HTML/CSS**
+- 💬 Ask me about **Java, Spring Boot, JPA, SQL, JSP/BootStrap**
 
 - 📫 How to reach me **saqib70241@gmail.com**
 
