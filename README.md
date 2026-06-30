@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Saqib Rashid Bhat</h1>
 <h3 align="center">Machine Learning Engineer | Generative AI · RAG Systems · LLMs · NLP | Python · FastAPI · FAISS</h3>
 
+<p align="center">
+  <a href="https://my-portfolio-saqibbhat321s-projects.vercel.app/">🌐 Portfolio</a> ·
+  <a href="https://linkedin.com/in/saqib70241">💼 LinkedIn</a> ·
+  <a href="mailto:saqib70241@gmail.com">📧 Email</a>
+</p>
+
 <img align="right" alt="AI" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ### 🚀 About Me
@@ -74,9 +80,6 @@ I enjoy combining business problem-solving with AI. My experience as an Operatio
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Saqibbhat321&show_icons=true&theme=default" />
-</p>
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saqibbhat321&layout=compact" />
 </p>
 <p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saqibbhat321" />
